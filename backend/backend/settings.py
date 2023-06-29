@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&' \
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['51.250.101.174', '127.0.0.1', 'prodigit.hopto.org']
 
 # Application definition
 
